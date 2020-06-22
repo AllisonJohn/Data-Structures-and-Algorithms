@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=java.util.Iterator\ loadFile(java.lang.String)
+comment0.text=\n\ loadFile\ takes\ the\ fileName\ to\ get\ the\ contents\ of\ the\ file\n\ @param\ fileName\ to\ the\ name\ the\ file\ in\ the\ same\ directory\n\ @return\ a\ string\ iterator\ for\ each\ line\ in\ the\ file\n
+comment1.params=fileName\ data
+comment1.target=void\ saveFile(java.lang.String,\ java.util.Iterator)
+comment1.text=\n\ saveFile\ takes\ an\ iterator\ and\ writes\ the\ contents\ into\ a\ file\n\ @param\ fileName\ the\ name\ of\ the\ file\ to\ use\n\ @param\ data\ the\ data\ to\ be\ put\ into\ the\ file\n
+numComments=2

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=r\ s
+comment0.target=Card(int,\ java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Card\n\ @param\ r\ the\ rank\n\ @param\ s\ the\ suit\n
+comment1.params=
+comment1.target=int\ getRank()
+comment1.text=\n\ Accessor\ method\ returns\ the\ card's\ rank\n\ @return\ the\ rank\ \n
+comment2.params=
+comment2.target=java.lang.String\ getSuit()
+comment2.text=\n\ Accessor\ method\ returns\ the\ card's\ suit\n\ @return\ the\ suit\n
+comment3.params=
+comment3.target=boolean\ isRed()
+comment3.text=\n\ Whether\ or\ not\ the\ card's\ suit\ is\ red\ (a\ diamond\ or\ heart)\n\ @return\ true\ if\ it's\ red,\ otherwise\ false\ \n
+comment4.params=
+comment4.target=boolean\ isFaceUp()
+comment4.text=\n\ Whether\ or\ not\ the\ card\ is\ face\ up\n\ @return\ true\ if\ it's\ up,\ otherwise\ false\n
+comment5.params=
+comment5.target=void\ turnUp()
+comment5.text=\n\ Changes\ the\ orientation\ of\ the\ card\ to\ face\ up\n
+comment6.params=
+comment6.target=void\ turnDown()
+comment6.text=\n\ Changes\ the\ orientation\ of\ the\ card\ to\ face\ down\n
+comment7.params=
+comment7.target=java.lang.String\ getFileName()
+comment7.text=\n\ The\ corresponding\ file\ name\ for\ the\ card's\ suit\ and\ rank\n\ @return\ the\ file\ name\n
+numComments=8
